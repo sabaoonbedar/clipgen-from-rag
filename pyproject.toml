@@ -3,7 +3,8 @@ name = "vision-rag-summarizer"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "sabaoon bedar", email = "you@example.com"}
+    {name = "Muhammad Idrees", email = "muhammadidrees4943@gmail.com"},
+    {name = "Sabaoon Bedar", email = "bedar.sabaoon@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.11,<3.12"
