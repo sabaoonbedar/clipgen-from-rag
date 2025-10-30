@@ -25,6 +25,23 @@ The final video output is designed with accessibility in mind, providing narrati
 | **Modular Design** | Each component (LLM, RAG, Video) is replaceable and independent. |
 | **Accessibility Focus** | Designed to generate videos that can be easily consumed by blind or low-vision users. |
 
+
+
+- Text-to-video generation pipeline
+
+- Retrieval-Augmented Generation (RAG) for contextual accuracy
+
+- Automatic script and shot plan generation
+
+- Caption and subtitle generation
+
+- Optional voice-over support using TTS
+
+- Modular design for easy extension and integration
+
+- Poetry-based dependency management
+
+
 ---
 
 ## Architecture
@@ -66,6 +83,8 @@ Output: MP4 + Transcript + Captions
 
 ---
 
+
+
 ## Customization
 
 | Customizable Component | Description |
@@ -85,4 +104,5 @@ Output: MP4 + Transcript + Captions
 | **Self-RAG Refinement** | Introduce critique and citation scoring for factual reliability. |
 | **Automatic Metadata & Thumbnails** | Generate descriptive titles, tags, and thumbnails. |
 | **Cloud Integration** | Extend video storage and publishing with Azure Media Services. |
+
 
